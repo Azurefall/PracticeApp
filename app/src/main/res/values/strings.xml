@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+
+    <string name="item_movie_title">타이틀</string>
+    <string name="item_movie_release_date">개봉일: 2022–01–01</string>
+    <string name="item_movie_overview">영화 설명을 나타냅니다.</string>
+    <string name="item_movie_vote">투표수</string>
+    <string name="item_movie_reserve">예매</string>
+</resources>
